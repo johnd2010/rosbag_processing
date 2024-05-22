@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#create a new rosbag with a subset of topics
+
 import sys
 from SimplePyQtGUIKit import SimplePyQtGUIKit
 from PyQt5 import QtGui, QtWidgets
